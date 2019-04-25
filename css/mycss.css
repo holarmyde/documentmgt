@@ -1,0 +1,67 @@
+html
+{
+margin:0px;
+padding;	
+	
+}
+body
+{
+margin:0px;
+padding:0px;
+background-color:white;
+}
+
+h1.ourMainHeading
+{ margin:20px 0px 0px 0px auto;
+text-align:center;
+	
+	
+	
+	}
+
+.container
+{ margin:40px 15%;
+background-color:#CCC;
+	
+	
+	
+	}
+.mainHeadingDiv
+{100px;
+background-color:blue;
+	
+	
+	
+}
+	
+
+.loginDiv
+{
+	width:40%;
+	margin:auto
+	margin-top:300px;
+	background-color:white;
+	padding:0px;
+	border-bottom-right-radius: 50px;
+	box-shadow:15px 15px 15px black;
+    float:right
+
+	
+	}
+.formControlDiv
+{ margin:10px
+}
+
+.btn-container
+{ margin:10px;
+text-align:right;
+	
+	
+	}
+.loginHeading
+{ background-color:black;
+color:white;
+margin:0px;
+padding:7px;
+font-size:15px;
+}
